@@ -1,0 +1,1 @@
+This is an excercise that simulates a shopping list
